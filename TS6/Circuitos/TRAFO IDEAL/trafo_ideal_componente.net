@@ -1,0 +1,7 @@
+* C:\users\axu_n\onedrive\escritorio\utn(2023)\tc2\tareas semanales\ts6\circuitos\trafo ideal\trafo_ideal_componente.asc
+
+.subckt trafo_ideal_componente p+ s+ p- s-
+I1 p- p+ I=i(V2)
+V2 s- s+ v(p+) - v(p-)
+.ends trafo_ideal_componente
+
