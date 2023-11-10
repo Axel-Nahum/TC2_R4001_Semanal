@@ -1,0 +1,11 @@
+* C:\Users\axu_n\OneDrive\Escritorio\UTN(2023)\TC2\Tareas Semanales\TS12\EJ2.asc
+I1 0 N001 AC 1
+C1 0 N001 1.58823
+C2 N002 N001 0.09342
+RL 0 N002 1
+L1 N002 N001 1.1893
+C3 N002 0 0.41176
+.ac dec 100 0.01 100
+* Respuesta en frecuencia
+.backanno
+.end
